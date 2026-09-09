@@ -1,0 +1,14 @@
+MY MUSIC — PLAY STORE RELEASE
+
+1. Open this project in Android Studio.
+2. Sync Gradle.
+3. Replace the placeholder MP3 URLs in MainActivity.kt.
+4. Add your own app icon.
+5. Build > Generate Signed Bundle / APK > Android App Bundle.
+6. Create/select a release keystore and sign the AAB.
+7. Upload the AAB to Google Play Console.
+8. Complete Store Listing, App Content, Data Safety and Content Rating.
+9. For a new personal developer account, complete the required closed test before requesting production access.
+10. Publish only music/artwork you own or are licensed to use.
+
+The included privacy-policy.html is a starter policy. Publish it at a public HTTPS URL and use that URL in Play Console; customize the contact information and update the policy if the app uses ads, analytics, accounts or other services.
