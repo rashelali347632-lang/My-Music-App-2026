@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_policy_text">My Music does not require an account in this demo. The app uses internet access only to stream audio from URLs configured by the app owner. No personal information is intentionally collected by the app itself. If analytics, advertising, login, payments, or other third-party services are added, this policy must be updated before publication.</string>
+</resources>
